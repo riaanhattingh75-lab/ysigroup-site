@@ -1,0 +1,23 @@
+2:"$Sreact.fragment"
+3:"$Sreact.suspense"
+4:"/_next/static/chunks/26s81gj2-5ekq.js"
+5:"/_next/static/chunks/3yb5p16ab48hy.js"
+6:"/_next/static/chunks/202m1kkd1y5s2.js"
+7:"/_next/static/chunks/1x6cd5xldhxh9.js"
+8:I[71549,["$4","$5","$6","$7"],"HomeView"]
+9:I[97367,["$4","$5","$6"],"OutletBoundary"]
+d:"ViewportBoundary"
+e:I[97367,["$4","$5","$6"],"$d"]
+f:"MetadataBoundary"
+10:I[97367,["$4","$5","$6"],"$f"]
+11:I[27201,["$4","$5","$6"],"IconMark"]
+c:X
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$3",null,{"fallback":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-8","aria-busy":"true","aria-live":"polite","children":[["$","p",null,{"className":"text-sm text-muted-foreground","children":"Loading the draft catalogue…"}],["$","div",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3","children":[["$","div","0",{"className":"h-80 animate-pulse rounded-2xl bg-cream-deep"}],["$","div","1",{"className":"h-80 animate-pulse rounded-2xl bg-cream-deep"}],["$","div","2",{"className":"h-80 animate-pulse rounded-2xl bg-cream-deep"}],["$","div","3",{"className":"h-80 animate-pulse rounded-2xl bg-cream-deep"}],["$","div","4",{"className":"h-80 animate-pulse rounded-2xl bg-cream-deep"}],["$","div","5",{"className":"h-80 animate-pulse rounded-2xl bg-cream-deep"}]]}]]}],"children":["$","$L8",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1x6cd5xldhxh9.js","async":true}]],["$","$L9",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"p":"$@b","v":null,"s":"$c"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$Le",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L10",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"YSI Group — draft shop"}],["$","meta","1",{"name":"description","content":"Draft shop for YSI Group. The supplied list has no confirmed prices. Photos are placeholders. The cart and lay-by calculator are demos only."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L11","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@12","v":null,"s":"$c"}},"a":"$@13","u":"$@14","b":"SJTzHVlXDKnlodA_QAhYy"}
+a:null
+14:true
+c:300
+c:C
+13:0
+12:"$undefined"
+b:"$undefined"
